@@ -23,4 +23,5 @@ int main()
         }
     }
     return 0;
-}D:\cpp\p1.cpp
+}
+// create class unistudent with following details with data members name, roll number,course, static int total_students . Include member functions to set and display the details of the student and static function to display total students admitted, create atleast three objects
